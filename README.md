@@ -37,6 +37,7 @@ Grab Steam
 
 Grab Riot Games
 
+And the goal is to develop an antivirus capable of detecting this program.
 ***********************************************************************************
 This tool is for educational purposes only.
 It is coded for you to see how your files are simply stolen and how to take action.
